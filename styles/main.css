@@ -9,10 +9,16 @@ body {
 
 .box {
     margin-top: 15dvh;
-    border-radius: 10px 50px 30px 5px;
+    border-radius: 10px 50px 5px 5px; /* top-left, top-right, bottom-right, bottom-left*/
     background-color: red;
     padding: 20px;
     width: 200px;
     height: 400px;
     background: white;
+}
+
+.border-radius-box-values {
+    margin: 50px;
+    padding: 5px 15px;
+    width: 200px;
 }
