@@ -1,0 +1,12 @@
+body {
+    background-color: blue; /** Test **/
+}
+
+.box {
+    border-radius: 10px 50px 30px 5px;
+    background-color: red;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    background: white;
+}
