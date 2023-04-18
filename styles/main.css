@@ -2,11 +2,17 @@ body {
     background-color: blueviolet; /** Test **/
 }
 
+.container{
+    display: flex;
+    justify-content: center;
+}
+
 .box {
+    margin-top: 15dvh;
     border-radius: 10px 50px 30px 5px;
     background-color: red;
     padding: 20px;
     width: 200px;
-    height: 150px;
+    height: 400px;
     background: white;
 }
