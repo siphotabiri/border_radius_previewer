@@ -22,3 +22,8 @@ body {
     padding: 5px 15px;
     width: 200px;
 }
+
+button {
+    border: 5px solid red;
+}
+
