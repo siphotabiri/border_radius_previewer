@@ -22,3 +22,7 @@ body {
     padding: 5px 15px;
     width: 200px;
 }
+
+.border-radius-box-values {
+    border-radius: 10px;
+}
